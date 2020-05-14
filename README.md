@@ -18,11 +18,11 @@
 
 #Discription
 
-Согласно описание, тестовое задание разделено на 2 пункта:
-![](index.png)
+Согласно описание, тестовое задание разделено на 2 пункта:</p>
+<img src="https://github.com/ralnik/webapp_test/blob/master/index.PNG">
 
 Задание 1: </p>
-![](task1.png)
+<img src="https://github.com/ralnik/webapp_test/blob/master/task1.PNG">
 
 Задание 2:</p>
-![](task2.png)
+<img src="https://github.com/ralnik/webapp_test/blob/master/task2.PNG">
