@@ -1,0 +1,8 @@
+com\example\config\DBConnection.class
+com\example\models\entities\Colors.class
+com\example\config\WebAppInitializer.class
+com\example\models\dao\ColorDao.class
+com\example\controllers\MainController.class
+com\example\models\dao\ColorDaoImpl.class
+com\example\config\DbConfig.class
+com\example\config\WebConfig.class
