@@ -19,10 +19,10 @@
 #Discription
 
 Согласно описание, тестовое задание разделено на 2 пункта:
-![alt text](index.png)
+![](index.png)
 
 Задание 1: </p>
 ![](task1.png)
 
 Задание 2:</p>
-![alt text](task2.png)
+![](task2.png)
